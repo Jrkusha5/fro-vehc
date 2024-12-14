@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://vehc-back.onrender.com';
